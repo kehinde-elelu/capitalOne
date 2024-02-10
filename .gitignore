@@ -1,0 +1,14 @@
+# Ignore CSV files
+*.csv
+
+# Ignore ZIP files
+*.zip
+
+# Ignore PKL files
+*.pkl
+
+# Ignore virtual environment directory
+venv/
+
+
+data/
