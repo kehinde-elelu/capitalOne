@@ -12,11 +12,13 @@ This notebook serves as the main entry point for the project, I unzip and check 
 Also saved as pickle for faster loading 
   
 - `02_preprocessing.ipynb`: This notebook is dedicated to data preprocessing tasks, such as cleaning, transforming, statistical information and preparing the data for analysis.
+Empty column was drop and the remaning is saved as an updated clean dataset 
 
 - `03_plots.ipynb`: This notebook contains code for generating transactional plots based on the clean data.
 Information about outliers was also visualize and hypothesis testing was done for distribution testing  
 
 - `04_wrangling.ipynb`: This notebook focuses on data wrangling tasks, which may involve checking for reversal and multi-swipe transaction.
+Information about reversal and multi-swipe transaction was provided 
 
 - `05_model.ipynb`: These notebooks pertain to modeling tasks, such as building machine learning models or statistical analyses.
 
