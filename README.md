@@ -1,10 +1,13 @@
-# Capital One Project 
+# Capital One Project
+Please download the slide for non-technical audiance  
 
 ## Overview
 This repository contains various Jupyter Notebooks and files related to a project focused on analyzing capital one transactions data. 
 The link to the dataset: https://github.com/CapitalOneRecruiting/DS
-The project involves data preprocessing, visualization, wrangling and modeling. Below is a brief description of the files and directories present:
+Note: Before running the model, please create a folder named "data" in the directory, and then create another folder inside "data" named "dataset".
 
+
+The project involves data preprocessing, visualization, wrangling and modeling. Below is a brief description of the files and directories present:
 ## Files and Directories
 
 - `01_main.ipynb`: 
